@@ -3,12 +3,6 @@ Project 2 Introduction to Algorithms and Data Structures
 
 # Enunciado do Projecto 2-IAED 2022/2023
 
-## Data de entrega: 14 de abril de 2023, às 19h59m
-
-## LOG alterações
-
-- 27-mar-23 - Publicação do enunciado.
-
 ## 1. Introdução
 
 O objectivo deste projeto é o desenvolvimento, em linguagem C, de
